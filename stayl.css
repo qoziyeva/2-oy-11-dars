@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ww{
+    display: flex;
+    justify-content: end;
+    padding: 16px 5px;
+}
